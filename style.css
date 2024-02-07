@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.c {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 3vh;
+    width: 50%;
+  }
+  
+  .r {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00ffae; 
+    width: 59%;
+    padding: 7px;
+    color: rgb(234, 0, 255);
+    font-weight: 900;
+    font-size: 1.1rem;
+  }
+
+  .p1 {
+    cursor: pointer;
+    color: #00fff2; 
+    font-weight: 800;
+  }
+  
+  body {
+    margin: 0;
+    background-image: url("https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 60%;
+    background-color: #fff200; 
+    border: 1px solid #0099ff; 
+  }
+  
+  th, td {
+    border-bottom: 1px solid #2fff00;
+    vertical-align: middle;
+    text-align: left;
+    padding: 10px;
+  }
+  
+  .n {
+    display: flex;
+  }
+  
+  .g {
+    color: #7d37ff; 
+    font-weight: 600;
+  }
+  
+  h1 {
+    text-shadow: 5px 2px 15px #151515;
+  }
+  
+  .h {
+    font-size: large;
+  }
+    
+  .i img {
+    max-width: 100px;
+    box-shadow: 5px 5px 5px #888888;
+  }
+  
+  .f {
+    text-align: center;
+    padding: 10px;
+    color: rgb(255, 89, 0);
+    font-weight: 1000;
+  }
+  
